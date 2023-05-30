@@ -9,12 +9,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/joseconejerosivo/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://jose-conejero.netlify.app/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/nixoletas/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=JCSIVO)
+![](https://komarev.com/ghpvc/?username=nixoletas)
 
 <!--
 **nixoletas/nixoletas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
