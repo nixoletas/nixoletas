@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick+👽)](https://git.io/typing-svg)
-
  ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB)
