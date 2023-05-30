@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick+🎶)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick+👽)](https://git.io/typing-svg)
 
  ### Languages and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
