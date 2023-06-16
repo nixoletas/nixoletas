@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/react-233142.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next.js-233142?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- 🔭 I’m currently working on a Tennis Score App that uses websockets
+- 🔭 I’m currently working on a Tennis Score App using React and Websockets
 - 🌱 I’m currently learning Pandas for Data Science with Python
 - 🤔 I’m looking for help with NextJS
 - 📫 Reach me out on social!
