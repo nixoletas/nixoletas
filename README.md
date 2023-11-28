@@ -30,8 +30,6 @@ Hi there 👋 I'm Nick.<br>I Design and Develop things.
 
 - 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/nixoletas/)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S82QDOW)
-
 ---
 ![](https://komarev.com/ghpvc/?username=YasiOnFire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@2d17ce26-1611-4757-bf95-fdb0da64fc74)
 
