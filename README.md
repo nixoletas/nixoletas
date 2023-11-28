@@ -5,11 +5,6 @@
 ![React](https://img.shields.io/badge/react-233142.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next.js-233142?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- 🔭 I’m currently working on a Tennis Score App using React and Websockets
-- 🌱 I’m currently learning Pandas for Data Science with Python
-- 🤔 I’m looking for help with NextJS
-- 📫 Reach me out on social!
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -19,3 +14,28 @@
 &nbsp; <a href="https://www.youtube.com/nixoletas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>
 &nbsp; <a href="https://www.soundcloud.com/nixoletas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/soundcloud.png" width="50" /></a>
 </p>
+
+
+<h1 align="center">
+Hi there 👋 I'm Nick.<br>I Design and Develop things.
+  <br><br>
+</h1>
+
+<h2 align="center">
+  ⚡ <a href="https://nigiza.dev" target="_blank">nigiza.dev</a> ⚡
+  <br><br>
+</h2>
+
+### More about me:
+
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/nixoletas/)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S82QDOW)
+
+---
+![](https://komarev.com/ghpvc/?username=YasiOnFire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@2d17ce26-1611-4757-bf95-fdb0da64fc74)
+
+<img src="https://github-readme-stats.vercel.app/api?username=YasiOnFire&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=YasiOnFire&theme=tokyonight" width="50%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiOnFire&layout=compact&theme=tokyonight)](https://yasio.pl)
+
+---
