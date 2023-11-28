@@ -14,20 +14,3 @@
 &nbsp; <a href="https://www.youtube.com/nixoletas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>
 &nbsp; <a href="https://www.soundcloud.com/nixoletas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/soundcloud.png" width="50" /></a>
 </p>
-
-
-<h1 align="center">
-Hi there 👋 I'm Nick.<br>I Design and Develop things.
-  <br><br>
-</h1>
-
-<h2 align="center">
-  ⚡ <a href="https://nigiza.dev" target="_blank">nigiza.dev</a> ⚡
-  <br><br>
-</h2>
-
-### More about me:
-
-- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/nixoletas/)
-
----
