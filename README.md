@@ -3,7 +3,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-233142.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-233142.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next.js-233142?style=for-the-badge&logo=nextdotjs&logoColor=white)
-Django
 
 <h3> 🤝🏻 Connect with Me </h3>
 
