@@ -5,7 +5,7 @@
 ![Next](https://img.shields.io/badge/next.js-233142?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <h3> 🤝🏻 Connect with Me </h3>
-https://nixoletas.vercel.app/
+<link src='https://nixoletas.vercel.app/'/>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/nixoletas" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
