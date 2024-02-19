@@ -1,8 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick+👽)](https://git.io/typing-svg)
-![Java](https://img.shields.io/badge/java-233142?style=for-the-badge&logo=java&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-233142.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-233142.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/next.js-233142?style=for-the-badge&logo=nextdotjs&logoColor=white)
+Java | Spring | AWS | Javascript | React
 
 <h3> 🤝🏻 Connect with Me </h3>
 my website: https://nixoletas.vercel.app/
