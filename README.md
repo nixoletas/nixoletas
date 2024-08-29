@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick+👽)](https://git.io/typing-svg)
-Java | Spring | AWS | Javascript | React
+Java | Spring | AWS | Typescript | Angular
 
 <h3> 🤝🏻 Connect with Me </h3>
 my website: https://nixoletas.vercel.app/
