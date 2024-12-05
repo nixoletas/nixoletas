@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick.+Musician+and+Programmer.+Chess+Tennis+and+👽)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=720&lines=Hi%2C+I'm+Nick.+Software+Developer+,+Musician+and+Designer)](https://git.io/typing-svg)
 Typescript | Java | Cloud | Full Stack
 
 <h3> 🤝🏻 Connect with Me </h3>
