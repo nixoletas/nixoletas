@@ -1,5 +1,10 @@
 # Hello, world! 👋
 
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nixoletas/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nixoletas)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/nixoletas)
+
 ## About Me
 
 I'm a web developer specialized in modern JavaScript technologies. I hold a degree in Systems Analysis and Development, working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
