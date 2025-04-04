@@ -35,7 +35,19 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 ---
 
 ```yaml
-name: Nicholas Miyasato
-age: 26
-country: Brazil
+services:
+  web:
+    container_name: welcome
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./mime.types:/etc/nginx/mime.types:ro
+    restart: unless-stopped
+    environment:
+      - NGINX_HOST=localhost
+      - NGINX_PORT=80
+
 ```
