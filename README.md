@@ -5,21 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Check+out+my+portfolio)](https://nixoletas.github.io/me/)
 
-```yaml
-image: nixoletas:latest
-  code:
-    - Javascript
-    - Typescript
-    - HTML
-    - CSS
-    - Python
-  tools:
-    - Angular
-    - NodeJs
-    - Docker
-    - AWS
-```
-
 ## 🌐 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nixoletas.github.io/me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nixoletas/)
