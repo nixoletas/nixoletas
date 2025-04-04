@@ -1,6 +1,6 @@
 <h1>Hi, i'm Nick ⚡</h1>
 
-[![Linkedin Badge](https://linkedin.com/nixoletas)
+[![Linkedin Badge](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)](https://linkedin.com/nixoletas)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://nixoletas.github.io/me)
 [![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:nick.miyasato.dev@gmail.com)
 
