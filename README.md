@@ -24,12 +24,6 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nixoletas&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nixoletas&layout=compact&theme=dracula)
-
 ## 📫 Get in Touch
 [![Website](https://img.shields.io/badge/Website-nixoletas.github.io-blue?style=flat-square&logo=google-chrome)](https://nixoletas.github.io/me/)
 [![GitHub](https://img.shields.io/badge/GitHub-nixoletas-181717?style=flat-square&logo=github)](https://github.com/nixoletas)
