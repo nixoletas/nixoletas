@@ -34,5 +34,8 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 ```yaml
 name: Nicholas Miyasato
 age: 26
-Country: Brazil
+country: Brazil
+technologies:
+  - javascript
+  - typescript
 ```
