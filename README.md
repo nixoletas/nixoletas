@@ -28,10 +28,10 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nixoletas&layout=compact&theme=dracula)
 
 ## 📫 Get in Touch
-
 [![Website](https://img.shields.io/badge/Website-nixoletas.github.io-blue?style=flat-square&logo=google-chrome)](https://nixoletas.github.io/me/)
 [![GitHub](https://img.shields.io/badge/GitHub-nixoletas-181717?style=flat-square&logo=github)](https://github.com/nixoletas)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nixoletas-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nixoletas/)
+[![Gmail](https://img.shields.io/badge/Gmail-nick.miyasato.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nick.miyasato.dev@gmail.com)
 ---
 
 ⭐️ From [nixoletas](https://github.com/nixoletas)
