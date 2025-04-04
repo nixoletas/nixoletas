@@ -38,7 +38,6 @@ My welcome image 🐋
 ```yaml
 services:
   web:
-    container_name: welcome
     image: nixoletas/welcome:latest
     ports:
       - "80:80"
@@ -46,4 +45,5 @@ services:
     environment:
       - NGINX_HOST=localhost
       - NGINX_PORT=80
+
 ```
