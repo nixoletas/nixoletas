@@ -1,5 +1,7 @@
 # Hello, world! 🐜
 
+Software Engineer at <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Check+out+my+portfolio)](https://nixoletas.github.io/me/)
 
 ## 🌐 Connect with me
@@ -35,7 +37,6 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 name: Nicholas Miyasato
 age: 26
 country: Brazil
-technologies:
-  - javascript
-  - typescript
+knowledge:
+  languages:
 ```
