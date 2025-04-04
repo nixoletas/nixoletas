@@ -33,5 +33,3 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nixoletas-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nixoletas/)
 [![Gmail](https://img.shields.io/badge/Gmail-nick.miyasato.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nick.miyasato.dev@gmail.com)
 ---
-
-⭐️ From [nixoletas](https://github.com/nixoletas)
