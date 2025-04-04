@@ -38,6 +38,4 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 name: Nicholas Miyasato
 age: 26
 country: Brazil
-knowledge:
-  languages:
 ```
