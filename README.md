@@ -1,14 +1,13 @@
 <h1>Hi, i'm Nick ⚡</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/nixoletas/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixoletas/)](https://www.linkedin.com/in/nixoletas/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://nixoletas.github.io/me)
 [![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
 
 
 ## My name is Nicholas Miyasato
 ( Angular | NodeJs | Docker | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Brazilian Army](https://www.eb.mil.br/)
-- 🏆 CTO
 - 🎓 Technology degree in Systems Analisys & Development
 
 <div align="left">
