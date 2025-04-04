@@ -1,14 +1,10 @@
-<h1>Hi, i'm Nick ⚡</h1>
+# Hello, world! 👋
 
-📄[LinkedIn](https://www.linkedin.com/in/nixoletas/)  |  📚[Portfolio](https://nixoletas.github.io/me)  |  📹[youtube](https://youtube.com/nixoletas)  |  🎵[soundcloud](https://soundcloud.com/nixoletas)
+## About Me
 
-# Olá, mundo! 👋
+I'm a web developer specialized in modern JavaScript technologies. I hold a degree in Systems Analysis and Development, working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
 
-## Sobre mim
-
-Sou um desenvolvedor web especializado em tecnologias JavaScript modernas. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho principalmente com TypeScript, Angular e Node.js, além de ter experiência com Docker e AWS.
-
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Technologies & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,19 +14,19 @@ Sou um desenvolvedor web especializado em tecnologias JavaScript modernas. Tecn�
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 💻 Projetos em destaque
+## 💻 Featured Projects
 
 ### [Intranet GovBR](https://github.com/nixoletas/intranet-govbr)
-Solução de intranet desenvolvida para o setor governamental brasileiro, oferecendo uma plataforma centralizada para comunicação e compartilhamento de informações.
+Intranet solution developed for the Brazilian government sector, offering a centralized platform for communication and information sharing.
 
-### [Lista de Presença (EB)](https://github.com/nixoletas/eb-lista-presenca)
-Sistema para gerenciamento de listas de presença, desenvolvido originalmente para o Exército Brasileiro, otimizando o controle de frequência em eventos e treinamentos.
+### [Attendance List (EB)](https://github.com/nixoletas/eb-lista-presenca)
+System for managing attendance lists, originally developed for the Brazilian Army, optimizing attendance control in events and training sessions.
 
 ### [Fut Evento](https://github.com/nixoletas/fut-evento)
-Aplicação para organização e gerenciamento de eventos esportivos, com foco em competições de futebol, facilitando a criação de torneios e acompanhamento de resultados.
+Application for organizing and managing sports events, focusing on soccer competitions, facilitating tournament creation and result tracking.
 
 ### [Helpdesk PDF Ticket Generator](https://github.com/nixoletas/helpdesk-pdf-ticket-generator)
-Ferramenta automatizada para geração de PDFs a partir de tickets de helpdesk, melhorando a documentação e o acompanhamento de chamados técnicos.
+Automated tool for generating PDFs from helpdesk tickets, improving documentation and tracking of technical support requests.
 
 ## 📊 GitHub Stats
 
@@ -38,11 +34,11 @@ Ferramenta automatizada para geração de PDFs a partir de tickets de helpdesk, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nixoletas&layout=compact&theme=dracula)
 
-## 📫 Entre em contato
+## 📫 Get in Touch
 
 [![Website](https://img.shields.io/badge/Website-nixoletas.github.io-blue?style=flat-square&logo=google-chrome)](https://nixoletas.github.io/me/)
 [![GitHub](https://img.shields.io/badge/GitHub-nixoletas-181717?style=flat-square&logo=github)](https://github.com/nixoletas)
 
 ---
 
-⭐️ De [nixoletas](https://github.com/nixoletas)
+⭐️ From [nixoletas](https://github.com/nixoletas)
