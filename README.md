@@ -34,20 +34,16 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 [![Gmail](https://img.shields.io/badge/Gmail-nick.miyasato.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nick.miyasato.dev@gmail.com)
 ---
 
+My welcome image 🐋
 ```yaml
 services:
   web:
     container_name: welcome
-    build: .
+    image: nixoletas/welcome:latest
     ports:
       - "80:80"
-    volumes:
-      - ./:/usr/share/nginx/html
-      - ./nginx.conf:/etc/nginx/nginx.conf:ro
-      - ./mime.types:/etc/nginx/mime.types:ro
     restart: unless-stopped
     environment:
       - NGINX_HOST=localhost
       - NGINX_PORT=80
-
 ```
