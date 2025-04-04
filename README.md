@@ -20,20 +20,6 @@ Specialized in modern JavaScript technologies. I hold a degree in Systems Analys
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 💻 Featured Projects
-
-### [Intranet GovBR](https://github.com/nixoletas/intranet-govbr)
-Intranet solution developed for the Brazilian government sector, offering a centralized platform for communication and information sharing.
-
-### [Attendance List (EB)](https://github.com/nixoletas/eb-lista-presenca)
-System for managing attendance lists, originally developed for the Brazilian Army, optimizing attendance control in events and training sessions.
-
-### [Fut Evento](https://github.com/nixoletas/fut-evento)
-Application for organizing and managing sports events, focusing on soccer competitions, facilitating tournament creation and result tracking.
-
-### [Helpdesk PDF Ticket Generator](https://github.com/nixoletas/helpdesk-pdf-ticket-generator)
-Automated tool for generating PDFs from helpdesk tickets, improving documentation and tracking of technical support requests.
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nixoletas&show_icons=true&theme=dracula)
