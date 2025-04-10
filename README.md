@@ -3,7 +3,7 @@
 <p><em>Technology degree in Systems Analysis & Development <a href="http://descomplica.com.br">Faculdade Descomplica</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Check+out+my+portfolio)](https://nixoletas.github.io/me/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Check+out+my+portfolio)](https://nickmiyasato.com.br)
 
 ## 🌐 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nixoletas.github.io/me/)
