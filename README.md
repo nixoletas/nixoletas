@@ -1,8 +1,5 @@
 # Hello, world! 🐜
 
-![hiimnick](https://github.com/user-attachments/assets/3c6913cc-94be-4283-b9b0-4504b712a846)
-
-
 <p><em>Technology degree in Systems Analysis & Development <a href="http://descomplica.com.br">Faculdade Descomplica</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
