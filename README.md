@@ -1,7 +1,8 @@
 ### Software Developer @ [Brazilian Army](https://www.eb.mil.br)
 
 Web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations nationwide. Developed a new helpdesk system with NodeJs and Telegram API.  
-Specialized in modern JavaScript technologies. I hold a degree in Systems Analysis and Development, working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
+Specialized in modern JavaScript technologies. Working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
+Learning Java | Spring Boot
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nickmiyasato.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nixoletas/)
