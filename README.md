@@ -1,7 +1,8 @@
 <p><em>Technology degree in Systems Analysis & Development <a href="http://descomplica.com.br">Faculdade Descomplica</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Check+out+my+portfolio)](https://nickmiyasato.com.br)
+Web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations over the entire nation. Developed a new helpdesk system with NodeJs and Telegram API.  
+Specialized in modern JavaScript technologies. I hold a degree in Systems Analysis and Development, working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
 
 ## 🌐 Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nickmiyasato.com.br)
@@ -9,11 +10,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nixoletas)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/nixoletas)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick.miyasato.dev@gmail.com)
-
-## About Me
-
-I'm a web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations over the entire nation. Developed a new helpdesk system with NodeJs and Telegram API.  
-Specialized in modern JavaScript technologies. I hold a degree in Systems Analysis and Development, working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
 
 ## 🚀 Technologies & Tools
 
