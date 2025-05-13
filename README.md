@@ -1,5 +1,4 @@
-src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+Software Developer @ [Brazilian Army](https://www.eb.mil.br)
 
 Web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations over the entire nation. Developed a new helpdesk system with NodeJs and Telegram API.  
 Specialized in modern JavaScript technologies. I hold a degree in Systems Analysis and Development, working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
