@@ -1,4 +1,4 @@
-src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer @ <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.eb.mil.br">Brazilian Army</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 Web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations over the entire nation. Developed a new helpdesk system with NodeJs and Telegram API.  
