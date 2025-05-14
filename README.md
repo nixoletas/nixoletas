@@ -1,8 +1,8 @@
 <h1 align="center">Nicholas Miyasato</h1>
 
-<h4 align="center">Software Engineer @ [Brazilian Army](https://www.eb.mil.br)</h4>
+<h4 align="center">Software Engineer @ <a href="https://www.eb.mil.br">Brazilian Army</a></h4>
 
-Web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations nationwide. Developed a new helpdesk system with NodeJs and Telegram API.  
+Web developer currently working at the brazilian army. I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations nationwide. Developed a new helpdesk system with NodeJs and Telegram API.  
 Specialized in modern JavaScript technologies. Working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
 
 <div align="center">
