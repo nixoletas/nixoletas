@@ -1,11 +1,9 @@
 <h1 align="center">Nicholas Miyasato</h1>
 
-### Software Engineer @ [Brazilian Army](https://www.eb.mil.br)
+<h4 align="center">Software Engineer @ [Brazilian Army](https://www.eb.mil.br)</h4>
 
 Web developer currently working at the [brazilian_army](https://www.eb.mil.br). I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations nationwide. Developed a new helpdesk system with NodeJs and Telegram API.  
 Specialized in modern JavaScript technologies. Working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
-
-Currently helping [PicMoney](https://www.picmoney.shop/) develop their MVP with Flutter
 
 <div align="center">
   
