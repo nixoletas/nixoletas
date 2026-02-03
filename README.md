@@ -11,12 +11,10 @@ Currently contributing to:
 
 ### Core Competencies
 - **Frontend**: Angular, React, Next.js, Flutter, TypeScript
-- **Backend**: Node.js (Express), C# .NET, Web API, Java
-- **Mobile**: Flutter (production MVPs with clean architecture & documentation)
-- **Databases & Infrastructure**: SQL (PostgreSQL, MySQL), DynamoDB, Supabase, RabbitMQ, Docker, AWS, Linux
+- **Backend**: Node.js (Express), C# .NET, NextJs API Routes, Java Spring boot
+- **Mobile**: Flutter w/ Riverpod (production MVPs with clean architecture & documentation)
+- **Databases & Infrastructure**: SQL (PostgreSQL, MySQL, Oracle), DynamoDB, Supabase, RabbitMQ, Docker, AWS, Linux
 - **Practices**: Clean Architecture, Performance Optimization, Multithreading, CI/CD, Monitoring & Observability, Agile, Technical Documentation
-
-Passionate about writing reliable, scalable code and turning complex requirements into maintainable systems.
 
 <div align="center">
   <a href="https://nickmiyasato.com.br"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
