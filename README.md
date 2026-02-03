@@ -1,16 +1,31 @@
 <h1 align="center">Nicholas Miyasato</h1>
 
-<h4 align="center">Software Engineer @ <a href="https://www.eb.mil.br">Brazilian Army</a></h4>
+<h4 align="center">Software Engineer </h4>
 
-Web developer currently working at the brazilian army. I've Created a new Intranet model with Angular, Strapi and NodeJs used in other military organizations nationwide. Developed a new helpdesk system with NodeJs and Telegram API.  
-Specialized in modern JavaScript technologies. Working primarily with TypeScript, Angular, and Node.js, with experience in Docker and AWS.
+Full Stack Software Developer with 3+ years of professional experience designing, developing, and optimizing scalable web and mobile applications serving 10,000+ daily active users.
+
+Strong experience across frontend and backend development, working with Angular, React, Flutter, Node.js (Express), C# .NET, SQL databases, Docker, and AWS. Proven ability to contribute throughout the entire software development lifecycle, from requirements analysis and implementation to monitoring, performance optimization, and documentation.
+
+Experienced in performance tuning and troubleshooting, including:
+
+Identifying and resolving frontend and backend latency issues
+
+Debugging complex systems and analyzing logs and metrics
+
+Optimizing multithreaded and asynchronous processes
+
+Improving frontend performance using tree-shaking, bundle optimization, and build analysis
+
+Recognized for fast learning, proactive problem-solving, and ownership mindset, with a strong ability to quickly adapt to new technologies and codebases.
+
+Known for clear communication, calm demeanor, and strong collaboration skills, contributing positively to cross-functional teams and healthy engineering environments.
+
+Core Skills & Keywords:
+Full Stack Development · Angular · React · Flutter · Node.js · Express · C# .NET · SQL · Performance Optimization · Debugging · Multithreading · Docker · AWS · Monitoring · CI/CD · Clean Architecture · Documentation · Agile Methodologies
 
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nickmiyasato.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nixoletas/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nick_oDev)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/nixoletas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick.miyasato.dev@gmail.com)
 
 </div>
