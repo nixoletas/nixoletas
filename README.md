@@ -1,5 +1,5 @@
 <h1 align="center">Nicholas Miyasato</h1>
-<h4 align="center">Software Engineer | Full-Stack Developer</h4>
+<h4 align="center">Full-Stack Software Engineer</h4>
 
 Full-stack engineer with 3+ years of professional experience building and scaling web and mobile applications that serve thousands of daily users. Currently focused on delivering high-performance, maintainable solutions across freelance and enterprise environments.
 
@@ -8,8 +8,6 @@ Currently contributing to:
 - [PIC Money - Treasure Hunting](https://www.picmoney.com.br/)
 - [A Divisão](https://adivisao.com.br/) — connecting companies with military veterans
 - [Ache um Veterano](https://app.acheumveterano.com.br/login)
-
-Previously led IT infrastructure and intranet modernization projects for the Brazilian Army (2023–2025), implementing Angular + Strapi solutions adopted by multiple military organizations, together with Dockerized environments, monitoring (Grafana), backups, and security hardening.
 
 ### Core Competencies
 - **Frontend**: Angular, React, Next.js, Flutter, TypeScript
